@@ -1,0 +1,10 @@
+.users-list {
+  background-color: #fff;
+  width: 60rem;
+  border-radius: 1rem;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.4);
+}

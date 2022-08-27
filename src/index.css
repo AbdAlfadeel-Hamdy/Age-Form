@@ -12,5 +12,7 @@ body {
   height: 100vh;
   background-image: linear-gradient(to right bottom, #a61e4d, #faa2c1);
   display: grid;
-  place-content: center;
+  justify-content: center;
+  padding-top: 3rem;
+  gap: 3rem;
 }

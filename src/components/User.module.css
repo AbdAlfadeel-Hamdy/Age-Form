@@ -1,0 +1,17 @@
+.user {
+  border: 1px solid #a61e4d;
+  display: flex;
+  border-radius: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0 2rem;
+  color: #a61e4d;
+}
+
+.user .username {
+  font-size: 1.5rem;
+}
+.user .age {
+  font-size: 1.5rem;
+}
