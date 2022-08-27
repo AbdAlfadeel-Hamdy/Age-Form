@@ -15,7 +15,7 @@ function App() {
     setUsers((prevUsers) => [...prevUsers, data]);
   };
 
-  const closeModal = (e) => {
+  const closeModal = () => {
     setError(false);
   };
   return (
